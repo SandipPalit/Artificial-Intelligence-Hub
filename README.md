@@ -5,28 +5,16 @@ A curated collection of top resources covering various aspects of Artificial Int
 
 ## Table of Contents
 
-- [Artificial Intelligence](#artificial-intelligence)
+- [You Only Look Once](#you-only-look-once)
 
 ---
 
-## Artificial Intelligence
+## You Only Look Once
 
-### Articles
-
-| Name                           | Link        |
-|--------------------------------|-------------|
+### Research Articles
 
 
-### Books
-
-| Name                           | Link        |
-|--------------------------------|-------------|
-
-
-### Notebooks
-
-| Name                           | Link        |
-|--------------------------------|-------------|
+* **You Only Look Once: Unified, Real-Time Object Detection** ~ [openaccess.thecvf.com](https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) 
 
 
 ---
