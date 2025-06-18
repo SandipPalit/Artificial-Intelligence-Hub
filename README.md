@@ -13,10 +13,13 @@ A curated collection of top resources covering various aspects of Artificial Int
 
 ### Research Articles
 
-
 * [**You Only Look Once: Unified, Real-Time Object Detection**](https://arxiv.org/pdf/1506.02640)
 
-* [**YOLOv3: An Incremental Improvement**](https://arxiv.org/pdf/1804.02767) 
+* [**YOLOv3: An Incremental Improvement**](https://arxiv.org/pdf/1804.02767)
+
+* [**YOLOv4: Optimal Speed and Accuracy of Object Detection**](https://arxiv.org/pdf/2004.10934)
+
+* [**YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications**](https://arxiv.org/pdf/2209.02976) 
 
 
 ---
