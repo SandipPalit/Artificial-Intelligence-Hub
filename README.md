@@ -14,7 +14,7 @@ A curated collection of top resources covering various aspects of Artificial Int
 ### Research Articles
 
 
-* **You Only Look Once: Unified, Real-Time Object Detection** ~ [openaccess.thecvf.com](https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) 
+* [**You Only Look Once: Unified, Real-Time Object Detection**](https://arxiv.org/pdf/1506.02640) 
 
 
 ---
